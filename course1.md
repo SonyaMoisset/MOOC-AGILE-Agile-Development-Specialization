@@ -26,3 +26,9 @@ We’ll show you how to:
 ##### Writing Great Agile User Stories
 - How do you know what matters to the user?
 - Resources
+
+#### Week 4
+##### Enhancing Your User Story
+- How do you write your best possible user story?
+- How do successful practitioners enhance their stories?
+- Resources
