@@ -16,4 +16,8 @@ We’ll show you how to:
 - What’s hard about creating excellent products?
 - How does agile help you through the hard stuff?
 - Resources
-- Week 1 Quiz
+
+#### Week 2
+##### Agile Design with Personas, Problem Scenarios, and Alternatives
+- How do actionable personas and problem scenarios help you avoid waste?
+- Resources
