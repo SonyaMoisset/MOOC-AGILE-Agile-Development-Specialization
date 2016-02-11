@@ -16,3 +16,4 @@ In this Specialization, you'll gain an understanding and appreciation of the pri
 
 ### 11/02/2016
 - Finished Week 2 | Agile Design with Personas, Problem Scenarios, and Alternatives in Course 1 | Getting Started: Agile Meets Design Thinking
+- Finished Week 3 | Writing Great Agile User Stories in Course 1 | Getting Started: Agile Meets Design Thinking
