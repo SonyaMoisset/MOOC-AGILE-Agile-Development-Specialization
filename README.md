@@ -13,3 +13,6 @@ In this Specialization, you'll gain an understanding and appreciation of the pri
 ### 09/02/2016
 - Enrolled in the program
 - Finished Week 1 | Problems Agile Solves in Course 1 | Getting Started: Agile Meets Design Thinking
+
+### 11/02/2016
+- Finished Week 2 | Agile Design with Personas, Problem Scenarios, and Alternatives in Course 1 | Getting Started: Agile Meets Design Thinking
