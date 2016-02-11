@@ -21,3 +21,8 @@ We’ll show you how to:
 ##### Agile Design with Personas, Problem Scenarios, and Alternatives
 - How do actionable personas and problem scenarios help you avoid waste?
 - Resources
+
+#### Week 3
+##### Writing Great Agile User Stories
+- How do you know what matters to the user?
+- Resources
