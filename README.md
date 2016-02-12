@@ -20,3 +20,4 @@ In this Specialization, you'll gain an understanding and appreciation of the pri
 
 ### 12/02/2016
 - Finished Week 4 | Enhancing Your User Story in Course 1 | Getting Started: Agile Meets Design Thinking
+- Finished Week 5 | IT Focus: Strategy-Driven Process Design in Course 1 | Getting Started: Agile Meets Design Thinking
