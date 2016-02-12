@@ -32,3 +32,9 @@ We’ll show you how to:
 - How do you write your best possible user story?
 - How do successful practitioners enhance their stories?
 - Resources
+
+#### Week 5
+##### IT Focus: Strategy-Driven Process Design
+- How do you sell stakeholders on using design to improve an IT project?
+- How do you prototype solutions to avoid implementations users ignore?
+- Resources
