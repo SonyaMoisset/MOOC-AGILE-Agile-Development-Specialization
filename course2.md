@@ -14,3 +14,8 @@ We'll show you how to:
 - Welcome!
 - What is a design sprint and how do you know if you need one?
 - How do you plan and run a design sprint?
+
+#### Week 2
+##### Testing Problem Scenarios in Design Sprints
+- How do you prepare a design sprint to test problem scenarios?
+- How do you run a design sprint to test problem scenarios?
