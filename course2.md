@@ -19,3 +19,9 @@ We'll show you how to:
 ##### Testing Problem Scenarios in Design Sprints
 - How do you prepare a design sprint to test problem scenarios?
 - How do you run a design sprint to test problem scenarios?
+
+#### Week 3
+##### Testing Problem Scenarios in Design Sprints
+- How do you use Lean Startup to test user motivation?
+- How do you prepare a design sprint to test motivation?
+- How do you run a design sprint to test motivation?
