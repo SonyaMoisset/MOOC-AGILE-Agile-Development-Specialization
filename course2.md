@@ -31,3 +31,8 @@ We'll show you how to:
 - A Systematic View of Usability
 - How do you prepare a design sprint to test usabilty?
 - How do you run a design sprint to test usabilty?
+
+#### Week 5
+##### Testing Approach and Architecture in Design Sprints
+- How do you prepare a design sprint to test approach and architecture?
+- How do you run a design sprint to test approach and architecture
