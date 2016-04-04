@@ -25,3 +25,9 @@ We'll show you how to:
 - How do you use Lean Startup to test user motivation?
 - How do you prepare a design sprint to test motivation?
 - How do you run a design sprint to test motivation?
+
+#### Week 4
+##### Testing Usability in Design Sprints
+- A Systematic View of Usability
+- How do you prepare a design sprint to test usabilty?
+- How do you run a design sprint to test usabilty?
