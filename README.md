@@ -31,3 +31,4 @@ In this Specialization, you'll gain an understanding and appreciation of the pri
 
 ### 04/04/2016
 - Finished Week 4 | Testing Usability in Design Sprints in Course 2 | Running Valuable Design Sprints
+- Finished Week 5 | Testing Approach and Architecture in Design Sprints in Course 2 | Running Valuable Design Sprints
