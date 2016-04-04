@@ -28,3 +28,6 @@ In this Specialization, you'll gain an understanding and appreciation of the pri
 ### 01/04/2016
 - Finished Week 2 | Testing Problem Scenarios in Design Sprints in Course 2 | Running Valuable Design Sprints
 - Finished Week 3 | Testing Motivation in Design Sprints in Course 2 | Running Valuable Design Sprints
+
+### 04/04/2016
+- Finished Week 4 | Testing Usability in Design Sprints in Course 2 | Running Valuable Design Sprints
